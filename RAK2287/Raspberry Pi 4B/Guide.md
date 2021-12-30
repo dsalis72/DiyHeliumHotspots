@@ -207,7 +207,7 @@ make install_conf
 cd bin
 ```
 
-+ Make a copy of the conf file for your reggion and name it as the default
++ Make a copy of the conf file for your region and name it as the default
 ```console
 cp global_conf.json.sx1250.US915 global_conf.json
 ```
